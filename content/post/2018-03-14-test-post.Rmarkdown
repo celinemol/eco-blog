@@ -1,0 +1,16 @@
+---
+title: Test post
+author: Celine
+date: '2018-03-14'
+slug: test-post
+categories: []
+tags: []
+---
+
+This is my first post
+
+```{r}
+#check out my code
+print("Hello World!")
+```
+
